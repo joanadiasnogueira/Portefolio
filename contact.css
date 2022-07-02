@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+}
+
+
+
+.barra{
+
+margin: auto;
+max-width: 800px;
+}
+
+
+ .barra ul {
+	list-style-type: none;
+	
+	overflow: hidden;
+
+	font-family: 'Familjen Grotesk', sans-serif;
+	font-weight: 500;
+
+}
+
+
+.barra li {
+	float: left;
+
+ 
+}
+
+
+.barra li a {
+	display: inline-block;
+	color: black;
+  font-size: 28px;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  text-align: center;
+
+}
+
+
+
+
+
+.container {
+
+	max-width: 100%;
+
+	display: flex;
+	flex-wrap: nowrap;
+	
+	width: 50%;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+
+}
+
+
+.info{
+	font-family: 'Familjen Grotesk', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	padding-left: 400px;
+
+}
+
+.flex-container{
+	display: flex;
+	flex-wrap: nowrap;
+	
+}
+
+.flex-container .box{
+	
+	width: 50%;
+	margin: 10px;
+	text-align: center;
+	
+	font-size: 30px;
+
+}
+
+.box h2{
+	text-align: left;
+	font-family: 'Merienda', cursive;
+	font-weight: 700;
+	font-size: 40px;
+	padding-left: 150px;
+}
+
+.box h1{
+	text-align: left;
+	font-family: 'Familjen Grotesk', sans-serif;
+	font-weight: 400;
+	font-size: 25px;
+	
+}
+
+.box p{
+	text-align: left;
+	font-family: 'Familjen Grotesk', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+
+}
+
+h1{
+	color: #A85E53;
+}
+
+h2{
+	color: #7D1B22;
+}
+
+
+.rodape{
+	text-align: center;
+	font-family: 'Familjen Grotesk', sans-serif;
+	font-weight: 400;
+	font-size: 10px;
+	padding-top: 150px;
+	clear: left;
+}
+
+.imagemfloat{
+	float: left;
+}
+
+
+.barra li h3 a{
+color: #7D1B22;
+}
+
+.barra li h4 a{
+color: #A85E53;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+
+
+
+
+
